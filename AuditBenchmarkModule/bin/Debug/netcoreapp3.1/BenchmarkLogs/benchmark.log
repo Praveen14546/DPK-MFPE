@@ -1,0 +1,252 @@
+INFO  10:00:20 Application started. Press Ctrl+C to shut down.
+INFO  10:00:20 Application started. Press Ctrl+C to shut down.
+INFO  10:00:20 Hosting environment: Development
+INFO  10:00:20 Hosting environment: Development
+INFO  10:00:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:00:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:00:36  Http GET request AuditBenchmarkController
+INFO  10:00:36  Http GET request BenchmarkProvider
+INFO  10:00:36  Http GET request BenchmarkRepo
+INFO  10:00:48  Http GET request AuditBenchmarkController
+INFO  10:00:48  Http GET request BenchmarkProvider
+INFO  10:00:48  Http GET request BenchmarkRepo
+INFO  10:00:59  Http GET request AuditBenchmarkController
+INFO  10:00:59  Http GET request BenchmarkProvider
+INFO  10:00:59  Http GET request BenchmarkRepo
+INFO  10:02:05 Application started. Press Ctrl+C to shut down.
+INFO  10:02:05 Application started. Press Ctrl+C to shut down.
+INFO  10:02:05 Hosting environment: Development
+INFO  10:02:05 Hosting environment: Development
+INFO  10:02:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:02:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39 Application started. Press Ctrl+C to shut down.
+INFO  10:09:39 Application started. Press Ctrl+C to shut down.
+INFO  10:09:39 Hosting environment: Development
+INFO  10:09:39 Hosting environment: Development
+INFO  10:09:39 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39  Http GET request AuditBenchmarkController
+INFO  10:09:39  Http GET request BenchmarkProvider
+INFO  10:09:39  Http GET request BenchmarkRepo
+INFO  10:20:13 Application started. Press Ctrl+C to shut down.
+INFO  10:20:13 Application started. Press Ctrl+C to shut down.
+INFO  10:20:13 Hosting environment: Development
+INFO  10:20:13 Hosting environment: Development
+INFO  10:20:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:20:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:20:14  Http GET request AuditBenchmarkController
+INFO  10:20:14  Http GET request BenchmarkProvider
+INFO  10:20:14  Http GET request BenchmarkRepo
+INFO  10:20:35  Http GET request AuditBenchmarkController
+INFO  10:20:35  Http GET request BenchmarkProvider
+INFO  10:20:35  Http GET request BenchmarkRepo
+INFO  10:20:36  Http GET request AuditBenchmarkController
+INFO  10:20:36  Http GET request BenchmarkProvider
+INFO  10:20:36  Http GET request BenchmarkRepo
+INFO  10:20:38  Http GET request AuditBenchmarkController
+INFO  10:20:38  Http GET request BenchmarkProvider
+INFO  10:20:38  Http GET request BenchmarkRepo
+INFO  10:21:23  Http GET request AuditBenchmarkController
+INFO  10:21:23  Http GET request BenchmarkProvider
+INFO  10:21:23  Http GET request BenchmarkRepo
+INFO  10:21:32  Http GET request AuditBenchmarkController
+INFO  10:21:32  Http GET request BenchmarkProvider
+INFO  10:21:32  Http GET request BenchmarkRepo
+INFO  10:23:37 Application started. Press Ctrl+C to shut down.
+INFO  10:23:37 Application started. Press Ctrl+C to shut down.
+INFO  10:23:37 Hosting environment: Development
+INFO  10:23:37 Hosting environment: Development
+INFO  10:23:37 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  10:23:37 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  10:23:37  Http GET request AuditBenchmarkController
+INFO  10:23:37  Http GET request BenchmarkProvider
+INFO  10:23:37  Http GET request BenchmarkRepo
+INFO  10:26:37  Http GET request AuditBenchmarkController
+INFO  10:26:37  Http GET request BenchmarkProvider
+INFO  10:26:37  Http GET request BenchmarkRepo
+INFO  12:22:04 Application started. Press Ctrl+C to shut down.
+INFO  12:22:04 Application started. Press Ctrl+C to shut down.
+INFO  12:22:04 Hosting environment: Development
+INFO  12:22:04 Hosting environment: Development
+INFO  12:22:04 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:22:04 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:22:04  Http GET request AuditBenchmarkController
+INFO  12:22:04  Http GET request BenchmarkProvider
+INFO  12:22:04  Http GET request BenchmarkRepo
+INFO  12:22:54  Http GET request AuditBenchmarkController
+INFO  12:22:54  Http GET request BenchmarkProvider
+INFO  12:22:54  Http GET request BenchmarkRepo
+INFO  12:36:27  Http GET request AuditBenchmarkController
+INFO  12:36:27  Http GET request BenchmarkProvider
+INFO  12:36:27  Http GET request BenchmarkRepo
+INFO  12:39:05  Http GET request AuditBenchmarkController
+INFO  12:39:05  Http GET request BenchmarkProvider
+INFO  12:39:05  Http GET request BenchmarkRepo
+INFO  12:39:58  Http GET request AuditBenchmarkController
+INFO  12:39:58  Http GET request BenchmarkProvider
+INFO  12:39:58  Http GET request BenchmarkRepo
+INFO  12:39:58  Http GET request AuditBenchmarkController
+INFO  12:39:58  Http GET request BenchmarkProvider
+INFO  12:39:58  Http GET request BenchmarkRepo
+INFO  12:54:16 Application started. Press Ctrl+C to shut down.
+INFO  12:54:16 Application started. Press Ctrl+C to shut down.
+INFO  12:54:16 Hosting environment: Development
+INFO  12:54:16 Hosting environment: Development
+INFO  12:54:16 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:54:16 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:54:16  Http GET request AuditBenchmarkController
+INFO  12:54:16  Http GET request BenchmarkProvider
+INFO  12:54:16  Http GET request BenchmarkRepo
+INFO  12:54:36  Http GET request AuditBenchmarkController
+INFO  12:54:36  Http GET request BenchmarkProvider
+INFO  12:54:36  Http GET request BenchmarkRepo
+INFO  12:54:36  Http GET request AuditBenchmarkController
+INFO  12:54:36  Http GET request BenchmarkProvider
+INFO  12:54:36  Http GET request BenchmarkRepo
+INFO  12:55:25  Http GET request AuditBenchmarkController
+INFO  12:55:25  Http GET request BenchmarkProvider
+INFO  12:55:25  Http GET request BenchmarkRepo
+INFO  12:55:26  Http GET request AuditBenchmarkController
+INFO  12:55:26  Http GET request BenchmarkProvider
+INFO  12:55:26  Http GET request BenchmarkRepo
+INFO  03:19:38 Application started. Press Ctrl+C to shut down.
+INFO  03:19:38 Application started. Press Ctrl+C to shut down.
+INFO  03:19:39 Hosting environment: Development
+INFO  03:19:39 Hosting environment: Development
+INFO  03:19:39 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  03:19:39 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  03:19:47  Http GET request AuditBenchmarkController
+INFO  03:19:47  Http GET request BenchmarkProvider
+INFO  03:19:47  Http GET request BenchmarkRepo
+INFO  03:20:22  Http GET request AuditBenchmarkController
+INFO  03:20:22  Http GET request BenchmarkProvider
+INFO  03:20:22  Http GET request BenchmarkRepo
+INFO  10:30:36 Application started. Press Ctrl+C to shut down.
+INFO  10:30:36 Application started. Press Ctrl+C to shut down.
+INFO  10:30:36 Hosting environment: Development
+INFO  10:30:36 Hosting environment: Development
+INFO  10:30:36 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:30:36 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:30:36  Http GET request AuditBenchmarkController
+INFO  10:30:36  Http GET request BenchmarkProvider
+INFO  10:30:36  Http GET request BenchmarkRepo
+INFO  10:39:58  Http GET request AuditBenchmarkController
+INFO  10:39:58  Http GET request BenchmarkProvider
+INFO  10:39:58  Http GET request BenchmarkRepo
+INFO  10:46:08 Application started. Press Ctrl+C to shut down.
+INFO  10:46:08 Application started. Press Ctrl+C to shut down.
+INFO  10:46:08 Hosting environment: Development
+INFO  10:46:08 Hosting environment: Development
+INFO  10:46:08 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:46:08 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:46:08  Http GET request AuditBenchmarkController
+INFO  10:46:08  Http GET request BenchmarkProvider
+INFO  10:46:08  Http GET request BenchmarkRepo
+INFO  10:50:23  Http GET request AuditBenchmarkController
+INFO  10:50:23  Http GET request BenchmarkProvider
+INFO  10:50:23  Http GET request BenchmarkRepo
+INFO  10:56:37  Http GET request AuditBenchmarkController
+INFO  10:56:37  Http GET request BenchmarkProvider
+INFO  10:56:37  Http GET request BenchmarkRepo
+INFO  11:01:06  Http GET request AuditBenchmarkController
+INFO  11:01:06  Http GET request BenchmarkProvider
+INFO  11:01:06  Http GET request BenchmarkRepo
+INFO  11:04:21  Http GET request AuditBenchmarkController
+INFO  11:04:21  Http GET request BenchmarkProvider
+INFO  11:04:21  Http GET request BenchmarkRepo
+INFO  11:39:11 Application started. Press Ctrl+C to shut down.
+INFO  11:39:11 Application started. Press Ctrl+C to shut down.
+INFO  11:39:11 Hosting environment: Development
+INFO  11:39:11 Hosting environment: Development
+INFO  11:39:11 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  11:39:11 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  11:39:11  Http GET request AuditBenchmarkController
+INFO  11:39:11  Http GET request BenchmarkProvider
+INFO  11:39:11  Http GET request BenchmarkRepo
+INFO  11:43:06 Application started. Press Ctrl+C to shut down.
+INFO  11:43:06 Application started. Press Ctrl+C to shut down.
+INFO  11:43:06 Hosting environment: Development
+INFO  11:43:06 Hosting environment: Development
+INFO  11:43:06 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  11:43:06 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  11:43:06  Http GET request AuditBenchmarkController
+INFO  11:43:06  Http GET request BenchmarkProvider
+INFO  11:43:06  Http GET request BenchmarkRepo
+INFO  11:45:45 Application started. Press Ctrl+C to shut down.
+INFO  11:45:45 Application started. Press Ctrl+C to shut down.
+INFO  11:45:45 Hosting environment: Development
+INFO  11:45:45 Hosting environment: Development
+INFO  11:45:45 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  11:45:45 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  11:45:45  Http GET request AuditBenchmarkController
+INFO  11:45:45  Http GET request BenchmarkProvider
+INFO  11:45:45  Http GET request BenchmarkRepo
+INFO  12:03:36 Application started. Press Ctrl+C to shut down.
+INFO  12:03:36 Application started. Press Ctrl+C to shut down.
+INFO  12:03:36 Hosting environment: Development
+INFO  12:03:36 Hosting environment: Development
+INFO  12:03:36 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:03:36 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:03:36  Http GET request AuditBenchmarkController
+INFO  12:03:36  Http GET request BenchmarkProvider
+INFO  12:03:36  Http GET request BenchmarkRepo
+INFO  12:16:17  Http GET request AuditBenchmarkController
+INFO  12:16:17  Http GET request BenchmarkProvider
+INFO  12:16:17  Http GET request BenchmarkRepo
+INFO  12:23:31  Http GET request AuditBenchmarkController
+INFO  12:23:31  Http GET request BenchmarkProvider
+INFO  12:23:31  Http GET request BenchmarkRepo
+INFO  02:01:10 Application started. Press Ctrl+C to shut down.
+INFO  02:01:10 Application started. Press Ctrl+C to shut down.
+INFO  02:01:10 Hosting environment: Development
+INFO  02:01:10 Hosting environment: Development
+INFO  02:01:10 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  02:01:10 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  02:01:11  Http GET request AuditBenchmarkController
+INFO  02:01:11  Http GET request BenchmarkProvider
+INFO  02:01:11  Http GET request BenchmarkRepo
+INFO  02:20:26  Http GET request AuditBenchmarkController
+INFO  02:20:27  Http GET request BenchmarkProvider
+INFO  02:20:27  Http GET request BenchmarkRepo
+INFO  02:23:43  Http GET request AuditBenchmarkController
+INFO  02:23:43  Http GET request BenchmarkProvider
+INFO  02:23:43  Http GET request BenchmarkRepo
+INFO  02:24:16  Http GET request AuditBenchmarkController
+INFO  02:24:16  Http GET request BenchmarkProvider
+INFO  02:24:16  Http GET request BenchmarkRepo
+INFO  02:26:24  Http GET request AuditBenchmarkController
+INFO  02:26:24  Http GET request BenchmarkProvider
+INFO  02:26:24  Http GET request BenchmarkRepo
+INFO  02:26:50  Http GET request AuditBenchmarkController
+INFO  02:26:50  Http GET request BenchmarkProvider
+INFO  02:26:50  Http GET request BenchmarkRepo
+INFO  02:27:53  Http GET request AuditBenchmarkController
+INFO  02:27:53  Http GET request BenchmarkProvider
+INFO  02:27:53  Http GET request BenchmarkRepo
+INFO  02:29:15  Http GET request AuditBenchmarkController
+INFO  02:29:15  Http GET request BenchmarkProvider
+INFO  02:29:15  Http GET request BenchmarkRepo
+INFO  02:29:44  Http GET request AuditBenchmarkController
+INFO  02:29:44  Http GET request BenchmarkProvider
+INFO  02:29:44  Http GET request BenchmarkRepo
+INFO  02:30:05  Http GET request AuditBenchmarkController
+INFO  02:30:05  Http GET request BenchmarkProvider
+INFO  02:30:05  Http GET request BenchmarkRepo
+INFO  02:30:31  Http GET request AuditBenchmarkController
+INFO  02:30:31  Http GET request BenchmarkProvider
+INFO  02:30:31  Http GET request BenchmarkRepo
+INFO  02:51:55 Application started. Press Ctrl+C to shut down.
+INFO  02:51:55 Application started. Press Ctrl+C to shut down.
+INFO  02:51:55 Hosting environment: Development
+INFO  02:51:55 Hosting environment: Development
+INFO  02:51:55 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  02:51:55 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  02:51:59  Http GET request AuditBenchmarkController
+INFO  02:51:59  Http GET request BenchmarkProvider
+INFO  02:51:59  Http GET request BenchmarkRepo
+INFO  02:57:51  Http GET request AuditBenchmarkController
+INFO  02:57:51  Http GET request BenchmarkProvider
+INFO  02:57:51  Http GET request BenchmarkRepo
+INFO  02:58:33  Http GET request AuditBenchmarkController
+INFO  02:58:33  Http GET request BenchmarkProvider
+INFO  02:58:33  Http GET request BenchmarkRepo

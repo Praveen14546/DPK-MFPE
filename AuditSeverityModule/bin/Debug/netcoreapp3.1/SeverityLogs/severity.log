@@ -1,0 +1,129 @@
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:31  Http GET Request From: AuditSeverityController
+INFO  10:21:21  Http POST Request From: AuditSeverityController
+INFO  10:21:21  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:21  Response Method of SeverityRepo Called 
+INFO  10:21:32  Http POST Request From: AuditSeverityController
+INFO  10:21:32  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:32  Response Method of SeverityRepo Called 
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21  Http GET Request From: AuditSeverityController
+INFO  10:26:36  Http POST Request From: AuditSeverityController
+INFO  10:26:36  SeverityResponse Method of SeverityProvider Called 
+INFO  10:26:36  Response Method of SeverityRepo Called 
+INFO  10:14:28 Application started. Press Ctrl+C to shut down.
+INFO  10:14:28 Application started. Press Ctrl+C to shut down.
+INFO  10:14:28 Hosting environment: Development
+INFO  10:14:28 Hosting environment: Development
+INFO  10:14:28 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:14:28 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:14:30  Http GET Request From: AuditSeverityController
+INFO  10:19:54 Application started. Press Ctrl+C to shut down.
+INFO  10:19:54 Application started. Press Ctrl+C to shut down.
+INFO  10:19:54 Hosting environment: Development
+INFO  10:19:54 Hosting environment: Development
+INFO  10:19:54 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:19:54 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:19:54  Http GET Request From: AuditSeverityController
+INFO  10:31:52 Application started. Press Ctrl+C to shut down.
+INFO  10:31:52 Application started. Press Ctrl+C to shut down.
+INFO  10:31:52 Hosting environment: Development
+INFO  10:31:52 Hosting environment: Development
+INFO  10:31:52 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:31:52 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:31:52  Http GET Request From: AuditSeverityController
+INFO  10:39:58  Http POST Request From: AuditSeverityController
+INFO  10:39:58  SeverityResponse Method of SeverityProvider Called 
+INFO  10:39:58  Response Method of SeverityRepo Called 
+INFO  10:46:25 Application started. Press Ctrl+C to shut down.
+INFO  10:46:25 Application started. Press Ctrl+C to shut down.
+INFO  10:46:25 Hosting environment: Development
+INFO  10:46:25 Hosting environment: Development
+INFO  10:46:25 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:46:25 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:46:25  Http GET Request From: AuditSeverityController
+INFO  10:50:22  Http POST Request From: AuditSeverityController
+INFO  10:50:22  SeverityResponse Method of SeverityProvider Called 
+INFO  10:50:22  Response Method of SeverityRepo Called 
+INFO  10:56:37  Http POST Request From: AuditSeverityController
+INFO  10:56:37  SeverityResponse Method of SeverityProvider Called 
+INFO  10:56:37  Response Method of SeverityRepo Called 
+INFO  11:01:06  Http POST Request From: AuditSeverityController
+INFO  11:01:06  SeverityResponse Method of SeverityProvider Called 
+INFO  11:01:06  Response Method of SeverityRepo Called 
+INFO  11:04:21  Http POST Request From: AuditSeverityController
+INFO  11:04:21  SeverityResponse Method of SeverityProvider Called 
+INFO  11:04:21  Response Method of SeverityRepo Called 
+INFO  12:09:14 Application started. Press Ctrl+C to shut down.
+INFO  12:09:14 Application started. Press Ctrl+C to shut down.
+INFO  12:09:14 Hosting environment: Development
+INFO  12:09:14 Hosting environment: Development
+INFO  12:09:14 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  12:09:14 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  12:09:17  Http GET Request From: AuditSeverityController
+INFO  12:16:14  Http POST Request From: AuditSeverityController
+INFO  12:16:14  SeverityResponse Method of SeverityProvider Called 
+INFO  12:16:14  Response Method of SeverityRepo Called 
+INFO  12:23:31  Http POST Request From: AuditSeverityController
+INFO  12:23:31  SeverityResponse Method of SeverityProvider Called 
+INFO  12:23:31  Response Method of SeverityRepo Called 
+INFO  02:04:44 Application started. Press Ctrl+C to shut down.
+INFO  02:04:44 Application started. Press Ctrl+C to shut down.
+INFO  02:04:44 Hosting environment: Development
+INFO  02:04:44 Hosting environment: Development
+INFO  02:04:45 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  02:04:45 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  02:04:53  Http GET Request From: AuditSeverityController
+INFO  02:20:18  Http POST Request From: AuditSeverityController
+INFO  02:20:19  SeverityResponse Method of SeverityProvider Called 
+INFO  02:20:22  Response Method of SeverityRepo Called 
+INFO  02:23:42  Http POST Request From: AuditSeverityController
+INFO  02:23:42  SeverityResponse Method of SeverityProvider Called 
+INFO  02:23:42  Response Method of SeverityRepo Called 
+INFO  02:24:15  Http POST Request From: AuditSeverityController
+INFO  02:24:15  SeverityResponse Method of SeverityProvider Called 
+INFO  02:24:15  Response Method of SeverityRepo Called 
+INFO  02:26:24  Http POST Request From: AuditSeverityController
+INFO  02:26:24  SeverityResponse Method of SeverityProvider Called 
+INFO  02:26:24  Response Method of SeverityRepo Called 
+INFO  02:26:50  Http POST Request From: AuditSeverityController
+INFO  02:26:50  SeverityResponse Method of SeverityProvider Called 
+INFO  02:26:50  Response Method of SeverityRepo Called 
+INFO  02:27:51  Http POST Request From: AuditSeverityController
+INFO  02:27:51  SeverityResponse Method of SeverityProvider Called 
+INFO  02:27:51  Response Method of SeverityRepo Called 
+INFO  02:29:14  Http POST Request From: AuditSeverityController
+INFO  02:29:14  SeverityResponse Method of SeverityProvider Called 
+INFO  02:29:14  Response Method of SeverityRepo Called 
+INFO  02:29:44  Http POST Request From: AuditSeverityController
+INFO  02:29:44  SeverityResponse Method of SeverityProvider Called 
+INFO  02:29:44  Response Method of SeverityRepo Called 
+INFO  02:30:05  Http POST Request From: AuditSeverityController
+INFO  02:30:05  SeverityResponse Method of SeverityProvider Called 
+INFO  02:30:05  Response Method of SeverityRepo Called 
+INFO  02:30:31  Http POST Request From: AuditSeverityController
+INFO  02:30:31  SeverityResponse Method of SeverityProvider Called 
+INFO  02:30:31  Response Method of SeverityRepo Called 
+INFO  02:51:58 Application started. Press Ctrl+C to shut down.
+INFO  02:51:58 Application started. Press Ctrl+C to shut down.
+INFO  02:51:58 Hosting environment: Development
+INFO  02:51:58 Hosting environment: Development
+INFO  02:51:58 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  02:51:58 Content root path: C:\Users\PRAVEEN KUMAR\OneDrive\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  02:52:00  Http GET Request From: AuditSeverityController
+INFO  02:57:51  Http POST Request From: AuditSeverityController
+INFO  02:57:51  SeverityResponse Method of SeverityProvider Called 
+INFO  02:57:51  Response Method of SeverityRepo Called 
+INFO  02:58:33  Http POST Request From: AuditSeverityController
+INFO  02:58:33  SeverityResponse Method of SeverityProvider Called 
+INFO  02:58:33  Response Method of SeverityRepo Called 
